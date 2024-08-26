@@ -13,7 +13,7 @@
 
 <div>
 <a href="https://velog.io/@alsendrha1/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"></a>
-<a href="alsendrha@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-8B89CC?style=flat&logo=Mail.Ru&logoColor=white"></a>
+<a href="mailto:alsendrha@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-8B89CC?style=flat&logo=Mail.Ru&logoColor=white"></a>
 </div>
 
 <br>
