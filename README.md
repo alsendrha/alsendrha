@@ -17,7 +17,7 @@
 <a href="mailto:alsendrha@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-8B89CC?style=flat&logo=Mail.Ru&logoColor=white"></a>
 </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/alsendrha%2Fgjbae1212%2Fhit-counter)](https://github.com/alsendrha)     
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/alsendrha)](https://github.com/alsendrha)     
 
 <br>
 
