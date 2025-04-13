@@ -1,4 +1,4 @@
-# Kim Minyoung
+# Kim Min young
 
 ### Stack
 
